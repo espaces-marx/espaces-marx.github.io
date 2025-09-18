@@ -1,0 +1,9 @@
+title: Espaces Marx
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+atom_feed:
+  hide: true
+    
+

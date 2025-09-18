@@ -1,0 +1,7 @@
+main:
+  - title: "Actualités"
+    url: /pages/actualites/
+  - title: "Publications"
+    url: /pages/publications/
+  - title: "Organisation"
+    url: /pages/organisation
