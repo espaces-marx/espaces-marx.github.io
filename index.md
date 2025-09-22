@@ -12,7 +12,7 @@ feature_row_overview:
   - image_path: /images/illus_world.png
     alt: "Changer le monde"
     title: "L'Europe et le monde"
-    excerpt: "Espaces Marx est engagée dans le réseau européen Transform. Les idées et ressources que nous mettons à la disposition de celles et ceux qui luttent sont élaborées **avec des militants et intellectuels de nombreux pays**."
+    excerpt: "Espaces Marx est engagée dans le réseau européen [transform! europe](https://transform-network.net/). Les idées et ressources que nous mettons à la disposition de celles et ceux qui luttent sont élaborées **avec des militants et intellectuels de nombreux pays**."
 ---
 
 {: .text-center}
