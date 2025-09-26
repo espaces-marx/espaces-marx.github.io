@@ -4,7 +4,7 @@ feature_row_overview:
   - image_path: /images/illus_cgt.png
     alt: "Science militante"
     title: "Science militante"
-    excerpt: "Nous croyons que les savoirs changent le monde. Les idées, concepts et outils que nous élaborons sont destinés à **ouvrir de nouvelles perspectives** et à **appuyer l'action** de celles et ceux qui aspirent à une société plus solidaire et plus libre."
+    excerpt: "Nous croyons que les savoirs changent le monde. Les idées, concepts et outils que nous élaborons sont destinés à **appuyer l'action** de celles et ceux qui aspirent à une société plus solidaire et plus libre."
   - image_path: /images/illus_science.png
     alt: "Regards croisés"
     title: "Regards croisés"
