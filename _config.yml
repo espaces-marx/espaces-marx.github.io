@@ -5,12 +5,7 @@ plugins:
   - jekyll-include-cache
 atom_feed:
   hide: true
-
-timezone: Europe/Paris
-collections:
-  events:
-    output: true
-  
+    
 footer:
   links:
     - label: "Email"
@@ -22,3 +17,21 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/espacesmarx"
+
+# Events
+  
+timezone: Europe/Paris
+collections:
+  events:
+    output: true
+
+# Posts
+    
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+
+date_format: "%d/%m/%Y"
