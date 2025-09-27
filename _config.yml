@@ -1,11 +1,16 @@
 title: Espaces Marx
 
 remote_theme: mmistakes/minimal-mistakes
+url: "https://www.espaces-marx.eu"
+baseurl: ""
 plugins:
+  - jekyll-seo-tag
   - jekyll-include-cache
 atom_feed:
   hide: true
-    
+
+og_image: /images/illus_marxist_rock.png
+  
 footer:
   links:
     - label: "Email"
