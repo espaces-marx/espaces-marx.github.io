@@ -1,7 +1,9 @@
 main:
-  - title: "Actualités"
-    url: /pages/actualites
   - title: "Publications"
     url: /pages/publications
+  - title: "Actualités"
+    url: /pages/actualites
+  - title: "Agenda"
+    url: /pages/agenda
   - title: "Organisation"
     url: /pages/organisation
