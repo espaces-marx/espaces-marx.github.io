@@ -5,7 +5,12 @@ plugins:
   - jekyll-include-cache
 atom_feed:
   hide: true
-    
+
+timezone: Europe/Paris
+collections:
+  events:
+    output: true
+  
 footer:
   links:
     - label: "Email"
