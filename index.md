@@ -1,4 +1,5 @@
 ---
+og_image: "/images/illus_marxist_rock2.png"
 layout: splash
 feature_row_overview:
   - image_path: /images/illus_cgt.png
