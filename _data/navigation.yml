@@ -1,9 +1,9 @@
 main:
   - title: "Accueil"
     url: /
-  - title: "Publications"
-    url: /pages/publications
   - title: "Actualités"
     url: /pages/actualites
+  - title: "Publications"
+    url: /pages/publications
   - title: "Agenda"
     url: /pages/agenda
