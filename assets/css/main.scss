@@ -1,0 +1,15 @@
+---
+# Only the main Sass file needs front matter (the triple-dashes)
+---
+
+@import "minimal-mistakes";
+
+.layout--single nav.pagination {
+  display: none !important;
+}
+.layout--home .archive__subtitle {
+  display: none !important;
+}
+.layout--single .page__date {
+  display: none !important;
+}
