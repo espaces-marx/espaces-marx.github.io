@@ -9,7 +9,7 @@ feature_row_overview:
     alt: "Regards croisés"
     title: "Regards croisés"
     excerpt: "Les sciences dites *de la nature* et les sciences humaines sont trop souvent présentées comme étanches, sinon même antagoniques. Nous proposons d'aborder les problèmes **sous un angle résolument pluridisciplinaire**."
-  - image_path: /images/illus_world.png
+  - image_path: /images/illus_world.jpg
     alt: "Changer le monde"
     title: "L'Europe et le monde"
     excerpt: "Espaces Marx est engagée dans le réseau européen [transform! europe](https://transform-network.net/). Les idées et ressources que nous mettons à la disposition de la lutte sont élaborées **avec des militants et intellectuels de nombreux pays**."
