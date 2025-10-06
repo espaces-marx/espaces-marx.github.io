@@ -7,4 +7,7 @@ sudo gem install bundler
 bundle config set path 'vendor/bundle'
 bundle install
 ```
-And then: ```bundle exec jekyll serve```
+And then:
+```
+bundle exec jekyll serve
+```
