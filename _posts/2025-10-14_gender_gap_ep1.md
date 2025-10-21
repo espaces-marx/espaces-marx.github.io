@@ -5,7 +5,9 @@ og_image: "/images/gender_gap_ep1.png"
 
 ---
 
-![Webinaire](/images/gender_gap_ep1.png)
+![Webinaire](images/illus_gender_gap_ep1.png)
+
+[Regarder la vidéo sur YouTube](https://www.youtube.com/watch?v=ID_DE_LA_VIDÉO)
 
 Le 14 octobre 2025, transform! europe organisait une première session de discussion avec Francesca Feo, David Broder et Gabriel Solans dans le cadre de sa série de webinaires [The Ideological Gender Gap: Feminist Breakthroughs and Anti-feminist Reaction](https://transform-network.net/event/is-the-gender-gap-deepening-insights-from-the-2024-25-elections/) (Le fossé idéologique entre les genres : percées féministes et réaction antiféministe). Cet épisode, modéré par Anaïs Fley, membre d'Espaces Marx et facilitatrice de transform! europe, avait pour objectif de mettre en perspective la notion de Gender Gap, au regard de la normalisation du vote d'extrême-droite et des récents résultats électoraux, en Europe et dans le monde. Les trois intervenant·es ont démontré comment, tendanciellement, les nouvelles générations sont de plus en plus progressives, et de plus en plus radicales.
 
