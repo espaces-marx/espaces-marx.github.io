@@ -1,11 +1,12 @@
 ---
-title: "Webinaire transform! [EN] : *Is the GENDER GAP DEEPENING? Insights from 24-25 elections*"
+title: "Le \"fossé entre les genres\" se creuse-t-il ?"
 layout: single
-og_image: "/images/gender_gap_ep1.png"
-
+og_image: "/images/illus_gender_gap_ep1.png"
 ---
 
-![Webinaire](images/illus_gender_gap_ep1.png)
+🇬🇧 Is the gender gap deepening? Insights from 24-25 elections
+
+![Webinaire](/images/illus_gender_gap_ep1.png)
 
 [Regarder la vidéo sur YouTube](https://www.youtube.com/watch?v=ID_DE_LA_VIDÉO)
 
