@@ -17,7 +17,7 @@ feature_row_overview:
 ---
 
 {: .text-center}
-![Espaces Marx](/images/banniere_em.png)
+![Espaces Marx](/images/banniere_em.jpg)
 
 **Espaces Marx** (anciennement l'Institut de Recherches Marxistes) est une association de réflexion, de formation et de production intellectuelle qui s’inscrit dans la tradition critique et émancipatrice du marxisme. Son objectif est d’analyser en profondeur les transformations sociales, économiques, culturelles et politiques qui traversent nos sociétés, afin de fournir des outils de compréhension et d’action. L'association favorise la rencontre entre chercheurs, acteurs syndicaux, responsables associatifs, mouvements sociaux et militants politiques, dans le but de mettre les savoirs et les expériences en dialogue. L'enjeu est d'articuler pensée théorique et pratiques sociales, en faisant de la réflexion critique un levier d'action révolutionnaire.
 
