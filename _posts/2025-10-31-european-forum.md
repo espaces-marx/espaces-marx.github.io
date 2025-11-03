@@ -8,7 +8,9 @@ description: "Les prolétaires n'ont pas de patrie 🚩"
 
 ![European Forum](/images/illus_eu-forum.png)
 
-Le Forum Européen est un espace unique où la gauche, les verts et les progressistes peuvent se réunir et partager leurs combats. Nous voulons formuler et lutter pour des solutions alternatives, plus justes et plus vertes aux crises auxquelles l'Europe est confrontée. Le réseau de transform! europe était présent et a animé plusieurs sessions de travail :
+Le Forum Européen est un espace unique où la gauche, les verts et les progressistes peuvent se réunir et partager leurs combats. Nous voulons formuler et lutter pour des solutions alternatives, plus justes et plus vertes aux crises auxquelles l'Europe est confrontée. Le réseau de transform! europe était présent et a animé plusieurs sessions de travail.
+
+[Retrouve le programme complet en français et en anglais](https://europeanforum.eu/2025/07/09/vienna-2025-european-forum-program/)
 
 ### Une fenêtre d'opportunité qui pourrait bientôt se refermer
 
@@ -63,12 +65,15 @@ La discussion a remis la région CEE au centre du débat international. Les inte
 La discussion a porté sur la question de savoir comment parvenir à la paix et quel type d'architecture de sécurité européenne est nécessaire. Les participants ont partagé le point de vue selon lequel de larges alliances sont essentielles pour aller de l'avant.
 
 > 🗣️ Hélène Bidard, Parti communiste français
+>
 > 🗣️ Sokratis Famellos, Président de Syriza, Grèce
+>
 > 🗣️ Cornelia Hildebrand, transform! europe
+>
 > 🗣️ Bjørnar Moxnes, Député, Parti rouge, Norvège (par vidéo)
+>
 > 🗣️ Magne Kaldhusdal, Membre du Comité international, Parti rouge, Norvège
+>
 > 💬 Modération : Barbara Steiner, transform! europe
-
-[Retrouve le programme complet en français et en anglais](https://europeanforum.eu/2025/07/09/vienna-2025-european-forum-program/)
 
 *L'équipe d'Espaces Marx*
