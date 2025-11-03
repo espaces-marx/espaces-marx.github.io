@@ -8,7 +8,7 @@ description: "Les prolétaires n'ont pas de patrie 🚩"
 
 ![European Forum](/images/illus_eu-forum.png)
 
-Le Forum Européen est un espace unique où la gauche, les verts et les progressistes peuvent se réunir et partager leurs combats. Nous voulons formuler et lutter pour des solutions alternatives, plus justes et plus vertes aux crises auxquelles l'Europe est confrontée. Le réseau de transform! europe était présent et a animé plusieurs sessions de travail.
+Le Forum Européen est un espace unique où la gauche, les verts et les progressistes peuvent se réunir et partager leurs combats. Nous voulons formuler et lutter pour des solutions alternatives, plus justes et plus vertes aux crises auxquelles l'Europe est confrontée. Lors de la 9e édition du 31 octobre au 2 novembre 2021, le réseau de transform! europe était présent et a animé plusieurs sessions de travail.
 
 [Retrouve le programme complet en français et en anglais](https://europeanforum.eu/2025/07/09/vienna-2025-european-forum-program/)
 
@@ -75,5 +75,7 @@ La discussion a porté sur la question de savoir comment parvenir à la paix et 
 > 🗣️ Magne Kaldhusdal, Membre du Comité international, Parti rouge, Norvège
 >
 > 💬 Modération : Barbara Steiner, transform! europe
+
+[Lire la déclaration finale en français](https://europeanforum.eu/2025/10/29/projet-declaration-finale-forum-europeen-2025/)
 
 *L'équipe d'Espaces Marx*
