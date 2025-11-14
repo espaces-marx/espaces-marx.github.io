@@ -1,7 +1,7 @@
 ---
 title: "Le moment philosophique déterminé par la guerre dans la politique : Lénine 1914-1916"
 layout: single
-og_image: "/images/illus_balbiar.png"
+og_image: "/images/illus_balibar.png"
 description: "Balibar : Lénine, la guerre et la politique 🚩"
 permalink: /resources/balibar/
 ---
