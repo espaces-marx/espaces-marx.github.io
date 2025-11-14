@@ -3,6 +3,7 @@ title: "Le moment philosophique déterminé par la guerre dans la politique : L�
 layout: single
 og_image: "/images/illus_balbiar.png"
 description: "Balibar : Lénine, la guerre et la politique 🚩"
+permalink: /resources/balibar/
 ---
 
 *Étienne Balibar*
