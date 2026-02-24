@@ -15,7 +15,7 @@ Nous souhaitons jouer un rôle actif dans la formation des idées et dans le dé
 
 ### 🇫🇷 [Où va le militarisme français ?](https://www.transform.review/where-is-french-militarism-headed/)
 
-**Hugo Pompougnac**
+**Hugo Pompougnac**, dans la revue politique européenne *transform review*, n°3 : « Class, Identity, Militarisation ».
 
 *L’industrie militaire française joue un rôle essentiel -- quoique discret -- dans la vie politique de l'Union Européenne. Elle rythme les échanges commerciaux, la politique industrielle, la diplomatie, etc. Il faut dire que les affaires fonctionnent bien. Même la crise politico-sociale française, qui depuis 2022 est devenue une crise parlementaire et gouvernementale, n’a pas mis le secteur en difficulté. De fait, le Brexit a éloigné l'un de ses principaux concurrents, et l'éclatement de la guerre en Ukraine lui a fourni un nouveau motif de développement. La crise diplomatique et commerciale entre l'UE et l'administration Trump lui a ensuite permis de prendre une importance encore plus centrale. Où va le militarisme français ?*
 
