@@ -1,12 +1,12 @@
 ---
 title: "Où va le militarisme français ?"
 layout: single
-og_image: "/images/2026-02-02-transform-review.jpg"
+og_image: "/images/2026-02-02-transform-review.jpeg"
 description: "Deux belles soirées de débat sur l'Intelligence Artificielle !"
 ---
 🇬🇧 Where Is French Militarism Headed?
 
-![Militarisme français](/images/2026-02-02-transform-review.jpg)
+![Militarisme français](/images/2026-02-02-transform-review.jpeg)
 
 Hugo Pompougnac, président d'Espaces Marx, a contribué au troisième numéro de la revue politique européenne *transform review*, [« Class, Identity, Militarisation »](https://www.transform.review/tag/issue-no-3/).
 
