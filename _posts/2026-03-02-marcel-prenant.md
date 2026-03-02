@@ -12,7 +12,7 @@ description: "Yann Kindo publie un livre sur Marcel Prenant aux éditions Matér
 
 Août 1948. 
 
-Alors qu’éclate l’affaire Lyssenko et que le monde scientifique découvre que sous l’impulsion d’un agronome fantaisiste l’URSS bannit la génétique, Marcel Prenant (1893-1983) est le plus célèbre des biologistes membres du Parti communiste français. Auréolé de son prestige de résistant déporté, ce militant présent dans la galaxie communiste depuis la fondation du Parti au congrès de Tours a même été depuis 1945 coopté au comité central de l’organisation stalinienne dirigée par Maurice Thorez. 
+Alors qu’éclate l’affaire Lyssenko et que le monde scientifique découvre que sous l’impulsion d’un agronome fantaisiste l’URSS bannit la génétique, Marcel Prenant (1893-1983) est le plus célèbre des biologistes membres du Parti communiste français. Auréolé de son prestige de résistant déporté, ce militant présent dans la galaxie communiste depuis la fondation du Parti au congrès de Tours a même été depuis 1945 coopté au comité central de l’organisation dirigée par Maurice Thorez. 
 
 Tout dans son parcours de biologiste pousse Marcel Prenant à rejeter en bloc les thèses lyssenkistes. Pionnier de la biogéographie et plus encore de l’écologie littorale, ce brillant professeur s’est surtout distingué en tant que promoteur de la théorie synthétique de l’évolution, alors que la biologie française reste au contraire largement marquée par le néolamarckisme. Le néodarwinisme fusionne alors la grille de lecture évolutionniste centrée sur la sélection naturelle et la génétique expérimentale, soit précisément ce qui est rejeté en URSS et considéré comme « réactionnaire » par les lyssenkistes. Alors que gronde la guerre froide et que de jeunes intellectuels du PCF théorisent une coupure radicale entre « science bourgeoise » et « science prolétarienne », Marcel Prenant n’est pas seulement sommé de choisir son camp : son parti attend de lui qu’il prenne la tête de la croisade française en faveur de Lyssenko…
 
@@ -24,5 +24,3 @@ La postface du biologiste Guillaume Lecointre actualise les enjeux de cette étu
 
 Le livre peut être commandé chez un libraire ou directement sur le site de l’éditeur : 
 https://www.materiologiques.com/yann-kindo-le-labo-et-la-faucille 
-
-*L'équipe d'Espaces Marx*
