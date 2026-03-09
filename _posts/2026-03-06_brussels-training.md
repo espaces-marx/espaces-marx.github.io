@@ -2,7 +2,7 @@
 title: "Première formation IA avec le Parti de la gauche européenne !"
 layout: single
 og_image: "/images/2026-03-06_training.jpg"
-description: "Deux belles soirées de débat sur l'Intelligence Artificielle !"
+description: "Une journée de formation pour mieux intégrer l'IA dans son travail"
 ---
 🇬🇧 First AI training with the European Left Party!
 
