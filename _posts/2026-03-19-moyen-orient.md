@@ -8,7 +8,7 @@ description: "Une liste de lecture dans Cairn.info proposée par la revue La Pen
 
 ![Moyen-Orient](/images/illus-actu-moyen-orient.png)
 
-Une liste de lecture dans Cairn.info proposée par la revue La Pensée avec une diversité d'articles et d'ouvrages. 
+Une liste de lecture dans Cairn.info proposée par la revue *La Pensée* avec une diversité d'articles et d'ouvrages. 
 
 Enjeux économiques, géopolitiques, industriels et militaires... Dynamiques régionales, intérêts des puissances internationales, liens avec d'autres conflits, droit international... Quel recul analytique sur cette zone géographique qui cristallise les richesses, les tensions et les drames ?
 
