@@ -10,7 +10,7 @@ description: "Une liste de lecture dans Cairn.info proposée par la revue La Pen
 
 Une liste de lecture dans Cairn.info proposée par la revue La Pensée avec une diversité d'articles et d'ouvrages. 
 
-Enjeux économiques, géopolitiques, industriels et militaires... Dynamiques régionales, intérêts des puissances international, liens avec d'autres conflits, droit international... Quel recul analytique sur cette zone géographique qui cristallise les richesses, les tensions et les drames ?
+Enjeux économiques, géopolitiques, industriels et militaires... Dynamiques régionales, intérêts des puissances internationales, liens avec d'autres conflits, droit international... Quel recul analytique sur cette zone géographique qui cristallise les richesses, les tensions et les drames ?
 
 À retrouver sur [https://shs.cairn.info/liste-lecture/GLebWe4?lang=fr](https://shs.cairn.info/liste-lecture/GLebWe4?lang=fr)
 
