@@ -41,3 +41,7 @@ And then:
 bundle exec jekyll serve --livereload
 ```
 Finally, open http://localhost:4000
+
+## LIA restoration tooling
+
+You can sync the latest version of the [LIA restoration](https://github.com/espaces-marx/lia-restoration) tool by running `./scripts/sync-lia-restoration.sh` on your machine.
