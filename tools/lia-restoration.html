@@ -453,7 +453,7 @@
     >
     <button id="fetch-btn">Fetch &amp; Clean</button>
     <div class="toolbar-sep"></div>
-    <button id="validate-btn" disabled>Validate</button>
+    <button id="validate-btn" disabled>Clean &amp; Validate</button>
     <button id="download-btn" disabled>Download HTML</button>
     <div class="toolbar-sep"></div>
     <button id="instructions-btn" title="Instructions &amp; help" aria-label="Help">?</button>
@@ -802,6 +802,7 @@ Text for illustration purposes.
 function cleanupHTML(rawHTML) {
   let t = rawHTML;
 
+  t = entityCleanup(t);
   t = removeSpaces(t);
   t = leninHeader(t);
   t = t.replaceAll(/<!--[^>]*-->/gm, '');
@@ -824,14 +825,25 @@ function cleanupHTML(rawHTML) {
   return t;
 }
 
+function entityCleanup(t) {
+  t = t.replaceAll(`&nbsp;`, ` `);
+  t = t.replaceAll(`&#160;`, ` `);
+  t = t.replaceAll(`&#8212;`, `—`);
+  t = t.replaceAll(`&#8216;`, `'`);
+  t = t.replaceAll(`&#8217;`, `'`);
+  t = t.replaceAll(`&#8220;`, `"`);
+  t = t.replaceAll(`&#8221;`, `"`);
+  t = t.replaceAll(`&eacute;`, `é`);
+  t = t.replaceAll(`&uuml;`, `ü`);
+  return t;
+}
+
 function removeSpaces(t) {
   t = t.replaceAll(`      `, ``);
   t = t.replaceAll(`    `, ``);
   t = t.replaceAll(`  `, ``);
   t = t.replaceAll(`  `, ``);
-  t = t.replaceAll(` &#160;`, ``);
   t = t.replaceAll(`\t`, ``);
-  t = t.replaceAll(`&nbsp;`, ``);
   t = t.replaceAll(`\n\n \n`, ``);
   t = t.replaceAll(`\n\n  \n`, ``);
   t = t.replaceAll(`\n\n   \n`, ``);
@@ -912,7 +924,7 @@ function paragraphCleanup(t) {
 }
 
 function endnoteCleanup(t) {
-  t = t.replaceAll(`\n&#8212;<em>Lenin</em>`, `—<em>Lenin</em>`);
+  t = t.replaceAll(`\n—<em>Lenin</em>`, `—<em>Lenin</em>`);
   t = t.replaceAll(`<h3>Notes</h3>\n\n\n\n\n\n<p class="endnote">`, `<h3>Notes</h3>\n\n<p class="endnote">`);
   t = t.replaceAll(`<h3>Notes</h3>\n\n\n\n\n\n\n\n\n\n<p class="endnote">`, `<h3>Notes</h3>\n\n<p class="endnote">`);
   t = t.replaceAll(`</p>\n\n\n\n\n\n<p class="endnote">`, `</p>\n\n<p class="endnote">`);
@@ -1082,7 +1094,7 @@ Text for illustration purposes.
     {
       id: 'validate-submit',
       label: 'Validate & Submit',
-      detail: `<p>Click <strong>Validate</strong>. Fix all errors (red), review warnings (yellow).</p>
+      detail: `<p>Click <strong>Clean &amp; Validate</strong>. Fix all errors (red), review warnings (yellow).</p>
 <p>Optionally add to the info header: <code>Refactored by: [Your Name]</code></p>
 <p>Click <strong>Download HTML</strong> and email the file + URL to the LIA administrator.</p>`
     }
@@ -1296,6 +1308,9 @@ Text for illustration purposes.
     validateBtn.disabled = true;
 
     try {
+      validateBtn.textContent = 'Cleaning…';
+      html = cleanupHTML(html);
+
       validateBtn.textContent = 'Formatting…';
       try {
         html = await prettier.format(html, {
@@ -1379,7 +1394,7 @@ Text for illustration purposes.
       alert(`Validation failed: ${err.message}`);
     } finally {
       validateBtn.disabled = false;
-      validateBtn.textContent = 'Validate';
+      validateBtn.textContent = 'Clean & Validate';
     }
   });
 
