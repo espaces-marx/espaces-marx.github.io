@@ -5,7 +5,7 @@ og_image: "/images/2026-07-03-hm.png"
 description: "Présentation de nons travaux sur l'IA à Historical Materialism 2026, Barcelone"
 ---
 
-🇬🇧 AI for radicals
+🇬🇧 AI for radicals: presentation at Historical Materialism 2026
 
 ![HM2026](/images/2026-07-03-hm.png)
 
