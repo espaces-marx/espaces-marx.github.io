@@ -23,6 +23,6 @@ Espaces Marx et Transform Europe sont à la conférence marxiste internationale 
 
 >Au cours de cette présentation de notre guide pratique Militer avec l'IA (AI for radicals en anglais), nous avons partagé nos observations suite aux formation professionnelles que nous avons données à des collectifs militants pour maîtriser l'IA. L'idée principale était de partager le fait que du début de la chaîne de production de l'IA (l'entraînement des modèles par des centaines de millions de travailleurs) jusqu'à l'interaction avec un LLM (pour s'aider à rédiger un tract par exemple), le mythe d'une automatisation totale du travail est purement idéologique. En pratique, travailler avec l'IA ne revient pas à déléguer totalement son travail, mais à opérer un exercice complexe de réflexivité sur la tâche en question. Pour les militants de gauche, il s'agit non seulement d'un outil pour déployer et faciliter l'activité politique, mais aussi pour mieux maîtriser et questionner son travail politique, ses objectifs, sa méthode et ses implications stratégiques.
 
-Retrouvez toutes le guide Militer avec l'IA [dans nos publications](https://www.espaces-marx.eu/pages/publications).
+Retrouvez le guide Militer avec l'IA [dans nos publications](https://www.espaces-marx.eu/pages/publications).
 
 *L'équipe d'Espaces Marx*
