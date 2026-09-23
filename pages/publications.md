@@ -19,6 +19,22 @@ Nous souhaitons jouer un rôle actif dans la formation des idées et dans le dé
 
 ## Nos articles
 
+**Hannah Bensussan, Hugo Pompougnac, *AI For Ecological Planning? The Case of Demand Forecasting via Machine Learning***
+
+Dans la publication du laboratoire interdisciplinaire d'évaluation des politiques publiques de Sciences Po Paris,  Gabriel Kahan, Antoine Jourdan, Alex Amiotte Suchet, Clara Leonard, Hannah Bensussan, Eric Monnet, Hugo Pompougnac, *Planification Écologique: Reality and Aspiration*. Article disponible [en anglais](https://sciencespo.hal.science/LIEPP/hal-05740437v1).
+
+<details>
+<summary>🇬🇧 Abstract</summary>
+<em>Ecological planning in France remains ill-defined. Conceptually, it often serves as a canvas upon which we project different meanings — at times evoking a nostalgia for an earlier period, in other moments a vague placeholder for progressive politics. As Mathilde Viennot has written, “La planification écologique reste donc à inventer. It hints at a new political project, but without clear definition or parameters. With the support of LIEPP as well as the International Network for Democratic Economic Planning, I convened a workshop on March 19th, 2026 to illuminate this still-fuzzy concept. The proceedings were both descriptive and normative, with the aim of foregrounding concrete institutional contexts where we might locate and evaluate ecological planning. The following debate compiles the interventions made by these participants in an abridged form. They mirror the two core themes of the event. First, we turn to scholars of France’s previous planning experience. Namely, postwar France and its dirigiste approach to industrial development has been the subject of a broad and wide-ranging literature. In the context of today’s debates on ecological transitions, it is increasingly held up as a model by social scientists.</em>
+</details>
+
+<details>
+<summary>🇫🇷 Résumé</summary>
+<em>En France, la planification écologique reste un concept mal défini. Sur le plan conceptuel, elle sert souvent de toile de fond sur laquelle on projette différentes significations — évoquant tantôt la nostalgie d’une époque révolue, tantôt un vague symbole de politique progressiste. Comme l’a écrit Mathilde Viennot, « La planification écologique reste donc à inventer. Elle laisse entrevoir un nouveau projet politique, mais sans définition ni paramètres clairs. » Avec le soutien du LIEPP ainsi que du Réseau international pour la planification économique démocratique, j’ai organisé un atelier le 19 mars 2026 afin d’éclairer ce concept encore flou. Les travaux ont été à la fois descriptifs et normatifs, dans le but de mettre en avant des contextes institutionnels concrets où nous pourrions situer et évaluer la planification écologique. Le débat qui suit rassemble, sous une forme abrégée, les interventions des participants. Celles-ci reflètent les deux thèmes centraux de l’événement. Tout d’abord, nous nous tournons vers les chercheurs spécialisés dans l’expérience française en matière de planification. En effet, la France d’après-guerre et son approche dirigiste du développement industriel ont fait l’objet d’une littérature abondante et variée. Dans le contexte des débats actuels sur les transitions écologiques, cette expérience est de plus en plus citée comme modèle par les spécialistes en sciences sociales.</em>
+</details>
+
+---
+
 **Hugo Pompougnac, Où va le militarisme français ?**
 
 Dans la revue politique européenne *transform review*, n°3 : « Class, Identity, Militarisation ». Disponible [en anglais](https://www.transform.review/where-is-french-militarism-headed/), texte français à venir.
@@ -35,7 +51,7 @@ Dans la revue politique européenne *transform review*, n°3 : « Class, Identit
 
 ---
 
-**Hugo Pompougnac, L'IA : intelligente ou artificielle ?**
+**Hugo Pompougnac, *L'IA : intelligente ou artificielle ?***
 
 Dans *La Pensée*, n°425 : « Descola & Latour / Intelligence artificielle / Au bord de la guerre ». Article disponible [ici](https://shs.cairn.info/revue-la-pensee-2026-1-page-85?lang=fr), pre-print disponible [ici](/documents/pompougnac_preprint_ia_intelligente_artificielle.pdf).
 
@@ -46,7 +62,7 @@ Dans *La Pensée*, n°425 : « Descola & Latour / Intelligence artificielle / Au
 
 ---
 
-**Antoni Bourdel, Faut-il sortir de l’IA pour accomplir la transition écologique ?**
+**Antoni Bourdel, *Faut-il sortir de l’IA pour accomplir la transition écologique ?***
 
 Dans *La Pensée*, n°425 : « Descola & Latour / Intelligence artificielle / Au bord de la guerre ». Article disponible [ici](https://shs.cairn.info/revue-la-pensee-2026-1-page-62?lang=fr).
 
