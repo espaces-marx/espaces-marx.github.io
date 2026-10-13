@@ -64,7 +64,7 @@ Dans *La Pensée*, n°425 : « Descola & Latour / Intelligence artificielle / Au
 
 **Antoni Bourdel, *Faut-il sortir de l’IA pour accomplir la transition écologique ?***
 
-Dans *La Pensée*, n°425 : « Descola & Latour / Intelligence artificielle / Au bord de la guerre ». Article disponible [ici](https://shs.cairn.info/revue-la-pensee-2026-1-page-62?lang=fr).
+Dans *La Pensée*, n°425 : « Descola & Latour / Intelligence artificielle / Au bord de la guerre ». Article disponible [ici](https://shs.cairn.info/revue-la-pensee-2026-1-page-62?lang=fr), pre-print disponible [ici](/documents/bourdel_preprint_ia_transition_eco.pdf).
 
 <details>
 <summary>🇫🇷 Résumé</summary>
